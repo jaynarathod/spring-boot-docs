@@ -1,10 +1,10 @@
 {
   "generator-openapi-repo": {
     "importExistingSpec": false,
-    "name": "Swagger-Docs",
+    "name": "Jayna-docs",
     "repo": "jaynarathod/spring-boot-docs",
     "splitSpec": false,
-    "samples": false,
+    "samples": true,
     "installSwaggerUI": true
   }
 }

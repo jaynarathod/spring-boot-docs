@@ -1,4 +1,4 @@
-# Swagger-Docs OpenAPI Specification
+# Jayna-docs OpenAPI Specification
 [![Build Status](https://travis-ci.org/jaynarathod/spring-boot-docs.svg?branch=master)](https://travis-ci.org/jaynarathod/spring-boot-docs)
 
 ## Steps to finish
